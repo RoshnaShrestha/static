@@ -41,7 +41,7 @@ pipeline {
 
     post {
         success {
-            echo "Successfully deployed! Access at http://localhost:8080"
+            echo "Successfully deployed! Access at http://localhost:1070"
         }
     }
 }
